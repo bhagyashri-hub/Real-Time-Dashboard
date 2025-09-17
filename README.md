@@ -17,9 +17,13 @@ Expandable: Can be extended to track additional metrics, add dropdown filters, o
 #Technology Stack:
 
 Python – for data processing and logic.
+
 Dash – for creating interactive web dashboards.
+
 Plotly – for interactive visualizations (line, bar, and pie charts).
+
 Pandas – for handling and manipulating CSV data.
+
 Jupyter Notebook – used as the development environment.
 
 
